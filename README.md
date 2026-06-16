@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProfesPirt
 - 👀 I’m interested in ... Reverse Engineering, Web Development, and Software engineering
 - 🌱 I’m currently learning ... Software engineering, Object-orientated programming, and Cybersecurity Fundamentals 
-- 📫 How to reach me ... jamesgillis@acm.org, 757-944-2566
+- 📫 How to reach me ... jamesgillis@acm.org
 
 
